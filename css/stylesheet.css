@@ -1,0 +1,35 @@
+body{
+background-image: url(Lionel_Messi.png);
+background-color: #eee;
+margin-top: 33px;
+font-family:monospace;
+}
+h1{
+  text-align: left;
+}
+span{
+border: 4px dashed #20bcd5;
+padding: 10px;
+
+}
+h2{
+  text-align: left;
+}
+h3{
+  text-align: left;
+}
+h4{
+  text-align:left;
+}
+
+p{
+  text-align: left;
+
+}
+ul{
+  text-align: left;
+
+}
+a{
+
+}
